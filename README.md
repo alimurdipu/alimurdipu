@@ -8,9 +8,9 @@
 
 ## SOCIAL LINK
 
-[<p align="center">
-    <img height="75" src="./images/Group 2.png">
-    ](https://www.facebook.com/alimurrazi.dipu/)[<img height="75" src="./images/Group 3.png">]
+<p align="center">
+    <a href="https://www.facebook.com/alimurrazi.dipu/"><img height="75" src="./images/Group 2.png"/></a>
+    <img height="75" src="./images/Group 3.png"/>
 </p>
 
 ## TECHNOLOGY
