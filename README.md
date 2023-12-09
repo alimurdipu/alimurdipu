@@ -15,7 +15,13 @@
 
 ## TECHNOLOGY
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb,figma)](https://skillicons.dev)
+<p align="center">
+    <img height="75" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react"/>
+    <br><br>
+<img height="75" src="https://skillicons.dev/icons?i=nodejs,express,mongodb">
+    <br><br>
+<img height="75" src="https://skillicons.dev/icons?i=figma,firebase">
+</p>
 
 ## SUMMARY CARDS
 
