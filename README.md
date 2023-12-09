@@ -1,8 +1,10 @@
-<img src="./images/banner.png"/>
+<img align="center" src="./images/banner.png"/>
 
 ## STATUS
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alimurdipu&theme=monokai&hide_border=true&background=90%2C000000%2CFF0000)](https://git.io/streak-stats)
+<p align="center" >
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=alimurdipu&theme=monokai&hide_border=true&background=90%2C000000%2CFF0000" alt="">
+</p>
 
 ## SOCIAL LINK
 
