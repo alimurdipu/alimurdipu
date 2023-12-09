@@ -10,7 +10,7 @@
 
 [<p align="center">
     <img height="75" src="./images/Group 2.png">
-    ](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="./images/Group 3.png">](https://www.facebook.com/mirhussainmurtaza)
+    ](https://www.facebook.com/alimurrazi.dipu/)[<img height="75" src="./images/Group 3.png">]
 </p>
 
 ## TECHNOLOGY
@@ -26,3 +26,4 @@
 ## SUMMARY CARDS
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimurdipu&theme=aura_dark)
+
